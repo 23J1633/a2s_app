@@ -1,0 +1,5 @@
+# Copy this file to key.properties and keep the real file private.
+storePassword=change-me
+keyPassword=change-me
+keyAlias=upload
+storeFile=../keystore/a2s-upload.jks
