@@ -16,9 +16,6 @@ A2S 按组件拆分为以下同系列仓库，所有者均为 `23J1633`。/ A2S 
 | dsh2server | DeepSeek Harness 插件 / DeepSeek Harness plugin | [23J1633/dsh2server](https://www.github.com/23J1633/dsh2server) |
 | server-api | 中转服务与 Web 控制台 / relay server and Web console | [23J1633/server-api](https://www.github.com/23J1633/server-api) |
 | a2s_app | Flutter Android 客户端 / Flutter Android client | [23J1633/a2s_app](https://www.github.com/23J1633/a2s_app) |
-| scripts | 跨仓库验收脚本 / cross-repository acceptance scripts | [23J1633/scripts](https://www.github.com/23J1633/scripts) |
-| ICON | A2S 品牌源图 / A2S brand source artwork | [23J1633/ICON](https://www.github.com/23J1633/ICON) |
-| artifacts | 脱敏交付验证产物 / sanitized delivery evidence | [23J1633/artifacts](https://www.github.com/23J1633/artifacts) |
 
 `a2s_app` 是 A2S 的 Flutter Android 控制端，Android application ID 为 `io.a2s.mobile`。它沿用服务器网页端的工作流：先选择设备，再单独选择设备上的智能体，进入聊天；左侧抽屉集中管理历史会话、统计、设置和扫码配对。界面使用 Material 3，支持浅色、深色、系统主题、动态取色、减少动画和真实品牌图标。
 
